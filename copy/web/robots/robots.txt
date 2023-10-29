@@ -1,0 +1,3 @@
+Host: https://www.spbestonia.ee/
+User-agent: *
+Allow: /

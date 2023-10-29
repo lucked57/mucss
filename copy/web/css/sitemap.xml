@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.spbestonia.ee/</loc>
+		<lastmod>2019-05-01T18:06:49+03:00</lastmod>
+		<priority>1</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://www.spbestonia.ee/site/service</loc>
+		<lastmod>2019-05-01T18:06:49+03:00</lastmod>
+		<priority>0.5</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://www.spbestonia.ee/site/partners</loc>
+		<lastmod>2019-05-01T18:06:49+03:00</lastmod>
+		<priority>0.5</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://www.spbestonia.ee/site/team</loc>
+		<lastmod>2019-05-01T18:06:49+03:00</lastmod>
+		<priority>0.5</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://www.spbestonia.ee/site/contact</loc>
+		<lastmod>2019-05-01T18:06:49+03:00</lastmod>
+		<priority>0.5</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+</urlset>		     		    			    
